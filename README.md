@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋, I'm Anjali Gupta
 
-<!--
-**Anjali-Gupta7/Anjali-Gupta7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer | Java | Spring Boot | React | SQL
 
-Here are some ideas to get you started:
+I'm a software developer focused on building practical web applications
+and REST APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- Java
+- Spring Boot
+- React
+- JavaScript
+- SQL
+- PostgreSQL
+- Spring Security
+- REST APIs
+- Git & GitHub
+- Postman
+
+## 🚀 Currently Building
+
+### Expense Splitter
+
+A full-stack application for managing groups and shared expenses.
+
+**Tech:** React, Java, Spring Boot, JWT, PostgreSQL
+
+Currently working on the frontend and integrating it with the backend APIs.
+
+## 📌 Projects
+
+- **Expense Splitter** — Full-stack expense management application
+- **Product Management API** — REST API built with Spring Boot
+- **Tesla Landing Page** — Frontend web project built with HTML & CSS
+  
+## 🌱 Currently Learning
+
+- Advanced Spring Boot
+- React
+- SQL & database design
+- Data Structures & Algorithms
+- Building production-ready applications
+
+## 🎯 Career Goal
+
+Growing as a full-stack developer and building reliable,
+user-focused software applications.
